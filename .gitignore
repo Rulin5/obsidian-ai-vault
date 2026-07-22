@@ -1,0 +1,27 @@
+# Obsidian local workspace state
+.obsidian/workspace*.json
+.obsidian/cache/
+.obsidian/plugins/
+
+# Local AI/runtime state
+.claude/
+.claudian/
+.codex/
+.agents/
+
+# Dependencies and caches
+node_modules/
+.npm-cache/
+.tmp-*/
+
+# Personal exports and generated documents
+*.docx
+*.pdf
+*.xlsx
+*.pptx
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
